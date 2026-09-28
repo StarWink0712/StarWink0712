@@ -1,0 +1,62 @@
+name: Update profile assets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 1 * * *"
+  push:
+    branches: [main, master]
+    paths:
+      - README.md
+      - scripts/render-stats.mjs
+      - .github/workflows/profile-assets.yml
+
+permissions: {}
+
+concurrency:
+  group: profile-assets-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'StarWink0712/StarWink0712' && github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 # v4.3.0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: "22"
+
+      - name: Render public GitHub statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: StarWink0712
+        run: node scripts/render-stats.mjs
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: StarWink0712
+          outputs: |
+            assets/github-contribution-grid-snake.svg?color_snake=%230969da
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2358a6ff
+
+      - name: Commit generated assets
+        env:
+          BRANCH_NAME: ${{ github.ref_name }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets/stats-*.svg assets/languages-*.svg assets/github-contribution-grid-snake*.svg
+          if git diff --cached --quiet; then
+            echo "Profile assets are already up to date."
+            exit 0
+          fi
+          git commit -m "chore: update profile assets"
+          git push origin "HEAD:${BRANCH_NAME}"

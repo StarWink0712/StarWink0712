@@ -1,16 +1,81 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="StarWink0712 · Build with curiosity, ship with care." />
+</p>
 
-<!--
-**StarWink0712/StarWink0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">你好，我是 <a href="https://github.com/StarWink0712">OgawaAya</a></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=42&amp;lines=Java+%26+Go+Backend+Developer;Building+native+macOS+tools;Making+algorithms+visible" alt="Java &amp; Go Backend Developer · Building native macOS tools · Making algorithms visible" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/StarWink0712"><img src="https://img.shields.io/badge/GitHub-StarWink0712-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub: StarWink0712" /></a>
+  <img src="https://img.shields.io/badge/UESTC-1F6FEB?style=flat-square" alt="电子科技大学" />
+  <img src="https://img.shields.io/badge/Based_in-Chengdu-238636?style=flat-square" alt="中国成都" />
+  <img src="https://img.shields.io/badge/Open_to-New_opportunities-58A6FF?style=flat-square" alt="Open to new opportunities" />
+</p>
+
+<p align="center"><samp>Backend engineering · Native apps · Useful little things</samp></p>
+
+---
+
+### 关于我
+
+- 来自 **电子科技大学（UESTC）**，目前在 **ByteDance / TikTok** 实习。
+- 主要方向是 **Java / Go 后端开发**，也喜欢用 Swift 构建原生 macOS 工具。
+- 正在打磨 **AlgoMotion**，让算法的每一步都看得见、讲得清。
+- 关注本地优先的软件体验，希望做出轻量、实用、让日常更顺手的工具。
+- 欢迎交流后端开发、算法可视化和 macOS 应用，也在关注新的机会。
+
+### 语言与工具
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" height="42" alt="Go" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="42" height="42" alt="Swift" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+</p>
+
+<sub>后端以 Java / Go 为主；个人项目也涉及 SwiftUI、TypeScript / React、Python 与 Docker。</sub>
+
+### 最近在做
+
+| 项目                                                                                               | 简介                                                                                     | 技术                          |
+| :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :---------------------------- |
+| **[AlgoMotion](https://github.com/StarWink0712/AlgoMotion)**                                       | 本地优先的算法可视化工具，内置 Hot 100 动画，支持自定义输入和 AI 生成演示。              | TypeScript · React · Python   |
+| **[BreezePic](https://github.com/StarWink0712/BreezePic-macOS-Image-Viewer)**                      | 原生 macOS 看图与图片编辑工具，支持文件夹浏览、本机照片与常用编辑。当前为 Alpha 源码版。 | Swift · SwiftUI · AppKit      |
+| **[ContextKit](https://github.com/StarWink0712/ContextKit-macOS-Finder-Right-Click-Context-Menu)** | 为 Finder 右键菜单补上文件创建、复制粘贴和路径工具，让日常操作更顺手。                   | Swift · SwiftUI · Finder Sync |
+
+<p align="right"><a href="https://github.com/StarWink0712?tab=repositories">查看全部仓库 →</a></p>
+
+---
+
+### GitHub 一览
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
+    <img src="./assets/stats-light.svg" width="49%" alt="GitHub 公开仓库、获得的 Stars 和关注者统计" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg" />
+    <img src="./assets/languages-light.svg" width="49%" alt="原创公开仓库的代码语言占比，按 GitHub 统计的代码字节数计算" />
+  </picture>
+</p>
+
+<p align="center"><sub>统计由 GitHub Actions 定期更新；语言占比仅反映原创公开仓库的代码字节数，不代表技术熟练程度。</sub></p>
+
+### 每一点积累，都在向前
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+    <img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="StarWink0712 的 GitHub 贡献图贪吃蛇动画；首次发布后由 GitHub Actions 生成" />
+  </picture>
+</p>
+
+<p align="center"><samp>Thanks for stopping by. Let's build something useful.</samp></p>

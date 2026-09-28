@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution animation setup</title>
+  <desc id="desc">This is a setup message, not contribution data. Run the Update profile assets GitHub Actions workflow to generate the real animation.</desc>
+  <rect x="1" y="1" width="898" height="128" rx="10" fill="#f6f8fa" stroke="#d1d9e0"/>
+  <text x="450" y="55" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#0969da">Every contribution is a small step forward.</text>
+  <text x="450" y="86" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#59636e">The animation will appear after the first GitHub Actions run.</text>
+</svg>
