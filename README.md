@@ -44,11 +44,19 @@
 
 ### 最近在做
 
-| 项目                                                                                               | 简介                                                                                     | 技术                          |
-| :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :---------------------------- |
-| **[AlgoMotion](https://github.com/StarWink0712/AlgoMotion)**                                       | 本地优先的算法可视化工具，内置 Hot 100 动画，支持自定义输入和 AI 生成演示。              | TypeScript · React · Python   |
-| **[BreezePic](https://github.com/StarWink0712/BreezePic-macOS-Image-Viewer)**                      | 原生 macOS 看图与图片编辑工具，支持文件夹浏览、本机照片与常用编辑。当前为 Alpha 源码版。 | Swift · SwiftUI · AppKit      |
-| **[ContextKit](https://github.com/StarWink0712/ContextKit-macOS-Finder-Right-Click-Context-Menu)** | 为 Finder 右键菜单补上文件创建、复制粘贴和路径工具，让日常操作更顺手。                   | Swift · SwiftUI · Finder Sync |
+| 项目 | 简介 | 技术 |
+| :--- | :--- | :--- |
+| **[AlgoMotion](https://github.com/StarWink0712/AlgoMotion)** | 本地优先的算法可视化工具，内置 LeetCode Hot 100 动画，支持自定义输入和 AI 生成演示。 | TypeScript · React · Python |
+| **[BreezePic](https://github.com/StarWink0712/BreezePic-macOS-Image-Viewer)** | 原生 macOS 看图与图片编辑工具，支持文件夹浏览、本机照片与常用编辑，当前为 Alpha 源码版。 | Swift · SwiftUI · AppKit |
+| **[ContextKit](https://github.com/StarWink0712/ContextKit-macOS-Finder-Right-Click-Context-Menu)** | 为 Finder 右键菜单补上文件创建、复制粘贴和路径工具，让日常操作更顺手。 | Swift · SwiftUI · Finder Sync |
+
+### 学习与练手
+
+| 项目 | 简介 | 技术 |
+| :--- | :--- | :--- |
+| **[rpc-github-sqc](https://github.com/StarWink0712/rpc-github-sqc)** | 手写 RPC 框架，涵盖 Netty 通信、ZooKeeper 注册中心、SPI 扩展与多种序列化，附面试准备文档。 | Java · Netty · ZooKeeper |
+| **[interview_guide_ownLearning](https://github.com/StarWink0712/interview_guide_ownLearning)** | 基于 LLM + RAG 的智能面试项目，Spring Boot 后端 + React 前端，支持语音面试与知识库问答。 | Java · Spring Boot · React |
+| **[12306_learning](https://github.com/StarWink0712/12306_learning)** | 12306 购票系统的微服务学习实现，含网关、订单、支付、票务等模块。 | Java · Spring Cloud · ShardingSphere |
 
 <p align="right"><a href="https://github.com/StarWink0712?tab=repositories">查看全部仓库 →</a></p>
 
