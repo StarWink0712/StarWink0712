@@ -41,8 +41,8 @@
 | 项目 | 简介 | 技术 |
 | :--- | :--- | :--- |
 | **[AlgoMotion](https://github.com/StarWink0712/AlgoMotion)** | 算法可视化工具，内置 LeetCode Hot 100 动画，支持自定义输入和 AI 生成演示。 | TypeScript · React · Python |
-| **[BreezePic](https://github.com/StarWink0712/BreezePic-macOS-Image-Viewer)** | macOS 看图与图片编辑工具，支持文件夹浏览、本机照片和常用编辑，当前是 Alpha 源码版。 | Swift · SwiftUI · AppKit |
-| **[ContextKit](https://github.com/StarWink0712/ContextKit-macOS-Finder-Right-Click-Context-Menu)** | Finder 右键菜单增强，补上文件创建、复制粘贴和路径工具。 | Swift · SwiftUI · Finder Sync |
+| **[BreezePic](https://github.com/StarWink0712/BreezePic-macOS-Image-Viewer)** | macOS 看图与图片编辑工具，支持文件夹浏览、本机照片和常用编辑 | Swift · SwiftUI · AppKit |
+| **[ContextKit](https://github.com/StarWink0712/ContextKit-macOS-Finder-Right-Click-Context-Menu)** | Finder 右键菜单增强，支持文件创建、复制粘贴和路径工具。 | Swift · SwiftUI · Finder Sync |
 
 ### 学习项目
 
