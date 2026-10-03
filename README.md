@@ -19,7 +19,6 @@
 
 ### 关于我
 
-- **电子科技大学（UESTC）**，目前在 **ByteDance / TikTok** 实习。
 - 主要做 **Java / Go 后端**，也会用 Swift 写点 macOS 工具。
 - 业余在做一个算法可视化工具 **AlgoMotion**。
 - 欢迎交流后端、算法可视化、macOS 开发。
