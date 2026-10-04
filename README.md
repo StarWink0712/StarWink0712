@@ -40,6 +40,7 @@
 
 | 项目 | 简介 | 技术 |
 | :--- | :--- | :--- |
+| **[简墨 Jianmo Resume](https://github.com/StarWink0712/Jianmo-resume)** | 免费开源的本地简历编辑器，支持 Windows / macOS、中英文排版、多份简历管理与无水印 PDF 导出。 | Python · FastAPI · JavaScript · LaTeX |
 | **[AlgoMotion](https://github.com/StarWink0712/AlgoMotion)** | 算法可视化工具，内置 LeetCode Hot 100 动画，支持自定义输入和 AI 生成演示。 | TypeScript · React · Python |
 | **[BreezePic](https://github.com/StarWink0712/BreezePic-macOS-Image-Viewer)** | macOS 看图与图片编辑工具，支持文件夹浏览、本机照片和常用编辑 | Swift · SwiftUI · AppKit |
 | **[ContextKit](https://github.com/StarWink0712/ContextKit-macOS-Finder-Right-Click-Context-Menu)** | Finder 右键菜单增强，支持文件创建、复制粘贴和路径工具。 | Swift · SwiftUI · Finder Sync |
