@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://github.com/StarWink0712"><img src="https://img.shields.io/badge/GitHub-StarWink0712-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub: StarWink0712" /></a>
-  <img src="https://img.shields.io/badge/UESTC-1F6FEB?style=flat-square" alt="电子科技大学" />
   <img src="https://img.shields.io/badge/Based_in-Chengdu-238636?style=flat-square" alt="中国成都" />
   <img src="https://img.shields.io/badge/Open_to-New_opportunities-58A6FF?style=flat-square" alt="Open to new opportunities" />
 </p>
